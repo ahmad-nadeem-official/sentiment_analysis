@@ -1,0 +1,10 @@
+['Borderlands' 'CallOfDutyBlackopsColdWar' 'Amazon' 'Overwatch'
+ 'Xbox(Xseries)' 'NBA2K' 'Dota2' 'PlayStation5(PS5)' 'WorldOfCraft'
+ 'CS-GO' 'Google' 'AssassinsCreed' 'ApexLegends' 'LeagueOfLegends'
+ 'Fortnite' 'Microsoft' 'Hearthstone' 'Battlefield'
+ 'PlayerUnknownsBattlegrounds(PUBG)' 'Verizon' 'HomeDepot' 'FIFA'
+ 'RedDeadRedemption(RDR)' 'CallOfDuty' 'TomClancysRainbowSix' 'Facebook'
+ 'GrandTheftAuto(GTA)' 'MaddenNFL' 'johnson&johnson' 'Cyberpunk2077'
+ 'TomClancysGhostRecon' 'Nvidia']
+
+ ['Positive' 'Neutral' 'Negative' 'Irrelevant']
